@@ -12,10 +12,10 @@ I'm an aspiring software developer currently working through Harvard's CS50 cour
 
 | Project | Description |
 |---------|-------------|
-| [tictactoe](https://github.com/QueenEM/tictactoe) | Tic-tac-toe game written in C++ |
-| [Profile-for-an-app](https://github.com/QueenEM/Profile-for-an-app) | C++ app that displays profile info with interactive hobbies |
-| [odin-recipes](https://github.com/QueenEM/odin-recipes) | Recipe website built while learning HTML through The Odin Project |
-| [my-profile](https://github.com/QueenEM/my-profile) | Personal profile page built with HTML |
+| [tictactoe](https://github.com/EmmettBirch/tictactoe) | Tic-tac-toe game written in C++ |
+| [Profile-for-an-app](https://github.com/EmmettBirch/Profile-for-an-app) | C++ app that displays profile info with interactive hobbies |
+| [odin-recipes](https://github.com/EmmettBirch/odin-recipes) | Recipe website built while learning HTML through The Odin Project |
+| [my-profile](https://github.com/EmmettBirch/my-profile) | Personal profile page built with HTML |
 
 ## Currently
 
