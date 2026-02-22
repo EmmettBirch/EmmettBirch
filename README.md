@@ -19,7 +19,6 @@ Software developer with hands-on experience in Java, Python and C. Trained throu
 | Project | Description |
 |---------|-------------|
 | [guitar-pedal](https://github.com/EmmettBirch/guitar-pedal) | Digital guitar effects pedal built with a Raspberry Pi 4 and Electrosmith Daisy — real-time audio DSP with touchscreen UI |
-| [guitar-pedal-tests](https://github.com/EmmettBirch/guitar-pedal-tests) | Tests and CS50P entry point for the Guitar Pedal project |
 | [CS50](https://github.com/EmmettBirch/CS50) | Problem sets and projects from Harvard's CS50x |
 | [my-profile](https://github.com/EmmettBirch/my-profile) | Personal portfolio site built with HTML and CSS |
 | [tictactoe](https://github.com/EmmettBirch/tictactoe) | Tic-tac-toe game written in C++ |
