@@ -19,11 +19,9 @@ Software developer with hands-on experience in Java, Python and C. Trained throu
 | Project | Description |
 |---------|-------------|
 | [guitar-pedal](https://github.com/EmmettBirch/guitar-pedal) | Digital guitar effects pedal built with a Raspberry Pi 4 and Electrosmith Daisy — real-time audio DSP with touchscreen UI |
-| [CS50](https://github.com/EmmettBirch/CS50) | Problem sets and projects from Harvard's CS50x |
+| [waveform-display](https://github.com/EmmettBirch/waveform-display) | Flask web app that visualises waveform data with interactive Plotly charts and FFT analysis |
 | [my-profile](https://github.com/EmmettBirch/my-profile) | Personal portfolio site built with HTML and CSS |
 | [tictactoe](https://github.com/EmmettBirch/tictactoe) | Tic-tac-toe game written in C++ |
-| [Profile-for-an-app](https://github.com/EmmettBirch/Profile-for-an-app) | C++ app that displays profile info with interactive hobbies |
-| [odin-recipes](https://github.com/EmmettBirch/odin-recipes) | Recipe website built while learning HTML through The Odin Project |
 
 ## Certificates
 
