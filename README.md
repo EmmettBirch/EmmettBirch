@@ -16,6 +16,7 @@ I'm an aspiring software developer currently working through Harvard's CS50 cour
 | [Profile-for-an-app](https://github.com/EmmettBirch/Profile-for-an-app) | C++ app that displays profile info with interactive hobbies |
 | [odin-recipes](https://github.com/EmmettBirch/odin-recipes) | Recipe website built while learning HTML through The Odin Project |
 | [my-profile](https://github.com/EmmettBirch/my-profile) | Personal profile page built with HTML |
+| [guitar-pedal-tests](https://github.com/EmmettBirch/guitar-pedal-tests) | Tests and entry point for the Guitar Pedal — a digital effects pedal built with a Raspberry Pi |
 
 ## Currently
 
